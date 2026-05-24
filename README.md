@@ -31,5 +31,5 @@ This project analyzes medical insurance costs using Excel, SQL, and Power BI das
 
 ## Power BI Dashboard
 
-![Power BI Dashboard](https://github.com/meharbansingh25/medical-insurance-cost-analysis/blob/main/Medical%20Insurance%20Project/Excel%20Folder/Excel%20Dashbord%20Chart.png)
+![Power BI Dashboard](https://github.com/meharbansingh25/medical-insurance-cost-analysis/blob/main/Medical%20Insurance%20Project/Power%20BI%20Folder/Medical%20Insurance%20Dashbord%20(Power%20Bi).png)
 
