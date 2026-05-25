@@ -20,7 +20,12 @@ This project analyzes medical insurance costs using Excel, SQL, and Power BI das
 - Obese patients show higher insurance costs.
 - Senior patients spend more on healthcare.
 
-## Dashboard
+## Dashboard Features
+- Interactive filters
+- KPI cards
+- Risk analysis
+- Customer segmentation
+
 (Upload dashboard screenshots here)
 
 
