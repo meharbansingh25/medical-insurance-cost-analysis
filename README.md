@@ -23,11 +23,8 @@ This project analyzes medical insurance costs using Excel, SQL, and Power BI das
 ## Dashboard Features
 - Interactive filters
 - KPI cards
-- Risk analysis
-- Customer segmentation
-
-(Upload dashboard screenshots here)
-
+- Healthcare cost analysis
+- BMI category analysis
 
 ## Excel Dashboard
 
