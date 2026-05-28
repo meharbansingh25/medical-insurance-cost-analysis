@@ -27,8 +27,8 @@ This project analyzes medical insurance costs using Excel, SQL, and Power BI. Th
 ## KPIs
 - Total Patients
 - Total Charges
-- Average Charges
 - Average BMI
+- Average Charges
 - Maximum Charges
 
 ---
