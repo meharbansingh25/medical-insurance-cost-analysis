@@ -34,8 +34,8 @@ This project analyzes medical insurance costs using Excel, SQL, and Power BI. Th
 ---
 
 ## SQL Analysis Performed
-- Average Charges by Smoker
 - Region-wise Cost Analysis
+- Average Charges by Smoker
 - BMI Category Analysis
 - Age Group Analysis
 - Risk Category Analysis using CASE WHEN
