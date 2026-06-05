@@ -2,15 +2,14 @@
 
 ---
 
+## Project Overview
+This project analyzes medical insurance costs using Excel, SQL, and Power BI. The project focuses on healthcare cost analysis, risk analysis, KPI tracking, and dashboard visualization to identify important business insights.
+
+---
 ## Tools Used
 - Excel
 - SQL
 - Power BI
-
----
-
-## Project Overview
-This project analyzes medical insurance costs using Excel, SQL, and Power BI. The project focuses on healthcare cost analysis, risk analysis, KPI tracking, and dashboard visualization to identify important business insights.
 
 ---
 
