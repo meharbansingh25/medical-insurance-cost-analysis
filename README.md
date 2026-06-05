@@ -78,6 +78,7 @@ This project analyzes medical insurance costs using Excel, SQL, and Power BI. Th
 This project demonstrates practical skills in Excel dashboarding, SQL analysis, KPI reporting, and Power BI visualization. The project successfully identified important healthcare cost patterns and customer risk factors using data analytics techniques.
 
 ---
-## Author
-Meharban Singh
 
+## Author
+- Meharban Singh 
+- Aspiring Data Analyst | Excel | SQL | Power BI
