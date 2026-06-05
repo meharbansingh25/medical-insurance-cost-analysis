@@ -43,15 +43,6 @@ This project analyzes medical insurance costs using Excel, SQL, and Power BI. Th
 
 ---
 
-## Business Insights
-- Smokers have significantly higher medical charges
-- Obese patients show higher insurance costs
-- Senior patients spend more on healthcare
-- High BMI increases insurance expenses
-- Southeast region contributes higher medical charges
-
----
-
 ## Dashboard Features
 - Interactive Filters
 - KPI Cards
@@ -59,6 +50,15 @@ This project analyzes medical insurance costs using Excel, SQL, and Power BI. Th
 - BMI Category Analysis
 - Region-wise Analysis
 - Customer Risk Analysis
+
+---
+
+## Business Insights
+- Smokers have significantly higher medical charges
+- Obese patients show higher insurance costs
+- Senior patients spend more on healthcare
+- High BMI increases insurance expenses
+- Southeast region contributes higher medical charges
 
 ---
 
