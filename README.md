@@ -63,13 +63,13 @@ This project analyzes medical insurance costs using Excel, SQL, and Power BI. Th
 
 ---
 
-## Excel Dashboard
+## Excel Dashboard (KPIs + Charts)
 
 ![Excel Dashboard](https://github.com/meharbansingh25/medical-insurance-cost-analysis/blob/main/Medical%20Insurance%20Project/Excel%20Folder/Excel%20Dashbord%20Chart.png)
 
 ---
 
-## Power BI Dashboard
+## Power BI Dashboard (Interactive Visuals + Filters)
 
 ![Power BI Dashboard](https://github.com/meharbansingh25/medical-insurance-cost-analysis/blob/main/Medical%20Insurance%20Project/Power%20BI%20Folder/Medical%20Insurance%20Dashbord%20(Power%20Bi).png)
 
@@ -79,3 +79,6 @@ This project analyzes medical insurance costs using Excel, SQL, and Power BI. Th
 This project demonstrates practical skills in Excel dashboarding, SQL analysis, KPI reporting, and Power BI visualization. The project successfully identified important healthcare cost patterns and customer risk factors using data analytics techniques.
 
 ---
+## Author
+Meharban Singh
+
